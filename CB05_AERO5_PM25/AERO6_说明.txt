@@ -1,0 +1,7 @@
+AERO6 requires additional PM Species. Previous Versions of CMAQ required PM2.5 to be split into PEC, POC, PNO3, PSO4, and PMFINE. 
+AERO6 requires additional species (e.g. trace metals). These species are PH2O, PCL, PNCOM, PCA, PSI, PMG, PMN, PNA, PNH4, PAL, PFE, PTI, PK, PMOTHR. 
+These additional species can be created using SMOKE version 2.4 or later.
+
+AERO6排放物种:PCL,PNH4,PNA,PMG,PK,PCA,PNCOM ,PFE ,PAL,PSI,PTI,PMN,PH2O,PMOTHR
+
+其中PM2.5 = PEC+POC+PNO3+PSO4+PMFINE，其他是成分包括在这五个之内。
